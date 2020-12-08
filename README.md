@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- Favorites : Movie, Book, MacBook
+- Favorites : Movie, Book, MacBook, Beach
 - Mainly : JavaScript, Vue, CSS, Html
 
-# I love all most animals :yellow_heart:
+## I love all most animals :bear::yellow_heart:
 
 <!--
 **JiannKim/Jiannkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
