@@ -3,6 +3,7 @@
 - Favorites : Movie, Book, MacBook, Beach
 - Mainly : JavaScript, Vue, CSS, Html
 
+:palm_tree:_I dream of going to the beach.
 ##### I love all most animals :bear::yellow_heart:
 
 <!--
