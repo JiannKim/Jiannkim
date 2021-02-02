@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="23px">
 
-- Favorites : Movie, Book, MacBook, :palm_tree:
+- Favorites : Movie, Book, Earth, MacBook, :palm_tree:
 - Mainly : JavaScript, Vue, CSS, Html
 
 ##### I love all most animals :bear::yellow_heart:
